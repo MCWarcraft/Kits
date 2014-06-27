@@ -1,0 +1,14 @@
+//Save in config
+//On command "/ffa", check if nexus is set
+//	If false, display error
+//	If true, teleport player there
+//		Give player 3 items
+//			Compass - Game Menu (Right click to go)
+//			Clock - Kits (Select your kit)
+//			Nether star - Upgrades (Upgrade your kits)
+//		Items should not drop on ground after death or when pressing drop
+//	If player dies in FFA, teleport to Nexus with default inventory
+
+//On command "/ffa nexus set", check for permission
+//	Right click with stick sets the nexus position
+//	Send a message

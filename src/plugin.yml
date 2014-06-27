@@ -1,0 +1,8 @@
+name: Kits
+main: randy.kits.main
+version: 1.0
+depend: [HonorPoints]
+commands:
+  kit:
+    description: Grab a kit
+    usage: /<command>
